@@ -98,6 +98,10 @@ footer {
 .Contact {
 	color: #FFF;
 }
+.Contact:hover {
+	color: #FFF;
+	text-decoration: none;
+}
 .fa {
 	padding: 15px;
 	font-size: 25px;
